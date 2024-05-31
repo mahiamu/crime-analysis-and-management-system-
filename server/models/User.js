@@ -18,7 +18,7 @@ const userSchema = mongoose.Schema(
       default: 'basic',
       enum: ['basic', 'editor', 'admin'],
     },
-    active: { type: Boolean, default: false },
+    active: { type: Boolean, default: true },
   },
   { timestamps: true } 
 );
