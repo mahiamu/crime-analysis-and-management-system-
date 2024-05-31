@@ -52,7 +52,7 @@ const Dashboard = () => {
               padding: "10px 20px",
             }}
           >
-            WELCOME TO THIS SITE
+            WELCOME
           </Button>
         </Box>)}
       </FlexBetween>
