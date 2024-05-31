@@ -40,7 +40,7 @@ const Dashboard = () => {
             }}
           >
             <LockOutlined sx={{ mr: "10px" }} />
-            Login to Access Pages
+            Login 
           </Button>
         </Box>):(<Box>
           <Button
